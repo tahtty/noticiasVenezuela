@@ -1,0 +1,11 @@
+{
+  "cnn": {
+    "link": "https://edition.cnn.com"
+  },
+  "bbc": {
+    "link": "https://www.bbc.com/news"
+  },
+  "universo": {
+	"link": "https://www.eluniverso.com"
+  }
+ }
